@@ -1,0 +1,10 @@
+{
+  "markdown.math.macros": {
+    "\\tooltip": "\\@firstoftwo",
+    "\\ttip": "\\@firstoftwo",
+    "\\tooltipAnchor": "\\@firstoftwo",
+    "\\tta": "\\@firstoftwo",
+    "\\tooltipConnect": "\\@firstoftwo",
+    "\\ttc": "\\@firstoftwo"
+  }
+}
